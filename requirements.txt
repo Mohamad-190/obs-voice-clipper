@@ -1,2 +1,6 @@
 obsws-python==1.7.0
 python-dotenv==1.0.1
+openwakeword==0.6.0
+sounddevice==0.4.6
+numpy==1.26.4
+onnxruntime==1.19.2
